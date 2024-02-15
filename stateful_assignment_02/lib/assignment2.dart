@@ -48,7 +48,7 @@ class _Assignmemt2State extends State<Assignment2> {
                   });
                 }, 
                 child: const Text("Color Box1"),
-                ),
+              ),
             ],
           ),
 
@@ -78,7 +78,7 @@ class _Assignmemt2State extends State<Assignment2> {
                   });
                 }, 
                 child: const Text("Color Box2"),
-                ),
+              ),
 
                 const SizedBox(
                   width: 20,
@@ -89,11 +89,11 @@ class _Assignmemt2State extends State<Assignment2> {
           const SizedBox(
             width: 20,
           ),
-        ],
-      ),
-    ],
+            ],
+          ),
+       ],
+     ),
     ),
-    ),
-    );
+   );
   }
 }
